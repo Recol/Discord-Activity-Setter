@@ -1,4 +1,4 @@
-# Discord-Activity-Setter
+# Discord Activity Setter
 A script designed to update Discord's activity tab with Chrome's current URL.
 
 # Things To Do  
