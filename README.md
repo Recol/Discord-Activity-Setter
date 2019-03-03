@@ -9,3 +9,4 @@ A script designed to update Discord's activity tab with Chrome's current URL.
 - Anything else which comes up
 - Set it to update on a loop (potential rerun script/put into endless loop, if check we'll see)
 - Build an EXE.
+- Improve timing syncing.
